@@ -1,0 +1,8 @@
+week04/
+├── README.md
+├── var.sh
+├── greet.sh
+├── check.sh
+├── backup.sh
+└── test/
+    └── diary.txt
