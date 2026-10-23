@@ -8,7 +8,8 @@ guestbook-web-1     guestbook-web    "python app.py"           web       2 minut
 
 <img width="568" height="350" alt="image" src="https://github.com/user-attachments/assets/5591d964-fdec-4e7a-9f87-188ef20a87dc" />
 
-<img width="590" height="380" alt="image" src="https://github.com/user-attachments/assets/85f6ec28-0b3c-4912-b72a-526629919652" />
+<img width="535" height="340" alt="image" src="https://github.com/user-attachments/assets/0f9f04cb-3f0d-4845-b7e4-dd7bbd8895df" />
+
 
 `docker compose down` 후 `up -d`: Redis 볼륨이 유지되어 데이터가 남아있음
 `docker compose down -v` 후 `up -d`: Redis 볼륨이 삭제되어 데이터가 사라짐
